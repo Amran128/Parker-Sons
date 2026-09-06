@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-red: #D3122B;
+  --color-brand-redHover: #B00E23;
+  --color-brand-navy: #0A192F;
+  --color-brand-navyDark: #050D1A;
+  --color-brand-slate: #475569;
+  --color-brand-light: #F8FAFC;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.text-shadow {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}

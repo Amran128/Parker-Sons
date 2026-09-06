@@ -1,0 +1,7 @@
+{
+  "name": "Parker & Sons Home Services",
+  "description": "Arizona's most trusted home service provider for cooling, heating, plumbing, electrical, and drain solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
